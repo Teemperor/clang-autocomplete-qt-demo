@@ -33,6 +33,9 @@
       <height>23</height>
      </rect>
     </property>
+    <property name="text">
+     <string>/opt/clang/build/bin/clang</string>
+    </property>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">

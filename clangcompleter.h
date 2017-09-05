@@ -23,6 +23,8 @@ private slots:
     void on_flags_textEdited(const QString &arg1);
 
 private:
+
+    QStringList getCompletions(QString arg);
     Ui::ClangCompleter *ui;
 };
 
